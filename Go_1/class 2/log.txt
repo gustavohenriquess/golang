@@ -1,0 +1,140 @@
+https://random-status-code.herokuapp.com/ - true
+https://www.google.com.br/ - true
+https://www.youtube.com/ - true
+https://www.facebook.com/ - true
+https://www.alura.com.br/ - true
+https://random-status-code.herokuapp.com/ - false
+https://www.google.com.br/ - true
+https://www.youtube.com/ - true
+https://www.facebook.com/ - true
+https://www.alura.com.br/ - true
+https://random-status-code.herokuapp.com/ - false
+https://www.google.com.br/ - true
+https://www.youtube.com/ - true
+https://www.facebook.com/ - true
+https://www.alura.com.br/ - true
+https://random-status-code.herokuapp.com/ - false
+https://www.google.com.br/ - true
+https://www.youtube.com/ - true
+https://www.facebook.com/ - true
+https://www.alura.com.br/ - true
+https://random-status-code.herokuapp.com/ - false
+https://www.google.com.br/ - true
+https://www.youtube.com/ - true
+https://www.facebook.com/ - true
+https://www.alura.com.br/ - true
+https://random-status-code.herokuapp.com/ - true
+https://www.google.com.br/ - true
+https://www.youtube.com/ - true
+https://www.facebook.com/ - true
+https://www.alura.com.br/ - true
+https://random-status-code.herokuapp.com/ - true
+https://www.google.com.br/ - true
+https://www.youtube.com/ - true
+https://www.facebook.com/ - true
+https://www.alura.com.br/ - true
+https://random-status-code.herokuapp.com/ - true
+https://www.google.com.br/ - true
+https://www.youtube.com/ - true
+https://www.facebook.com/ - true
+https://www.alura.com.br/ - true
+https://random-status-code.herokuapp.com/ - true
+https://www.google.com.br/ - true
+https://www.youtube.com/ - true
+https://www.facebook.com/ - true
+https://www.alura.com.br/ - true
+https://random-status-code.herokuapp.com/ - true
+https://www.google.com.br/ - true
+https://www.youtube.com/ - true
+https://www.facebook.com/ - true
+https://www.alura.com.br/ - true
+https://random-status-code.herokuapp.com/ - false
+https://www.google.com.br/ - true
+https://www.youtube.com/ - true
+https://www.facebook.com/ - true
+https://www.alura.com.br/ - true
+https://random-status-code.herokuapp.com/ - false
+https://www.google.com.br/ - true
+https://www.youtube.com/ - true
+https://www.facebook.com/ - true
+https://www.alura.com.br/ - true
+https://random-status-code.herokuapp.com/ - false
+https://www.google.com.br/ - true
+https://www.youtube.com/ - true
+https://www.facebook.com/ - true
+https://www.alura.com.br/ - true
+24/01/2022 16:37:41 - https://random-status-code.herokuapp.com/ - false
+24/01/2022 16:37:41 - https://www.google.com.br/ - true
+24/01/2022 16:37:41 - https://www.youtube.com/ - true
+24/01/2022 16:37:42 - https://www.facebook.com/ - true
+24/01/2022 16:37:42 - https://www.alura.com.br/ - true
+24/01/2022 16:37:48 - https://random-status-code.herokuapp.com/ - true
+24/01/2022 16:37:48 - https://www.google.com.br/ - true
+24/01/2022 16:37:48 - https://www.youtube.com/ - true
+24/01/2022 16:37:49 - https://www.facebook.com/ - true
+24/01/2022 16:37:49 - https://www.alura.com.br/ - true
+24/01/2022 16:37:54 - https://random-status-code.herokuapp.com/ - false
+24/01/2022 16:37:55 - https://www.google.com.br/ - true
+24/01/2022 16:37:55 - https://www.youtube.com/ - true
+24/01/2022 16:37:55 - https://www.facebook.com/ - true
+24/01/2022 16:37:55 - https://www.alura.com.br/ - true
+24/01/2022 16:38:01 - https://random-status-code.herokuapp.com/ - true
+24/01/2022 16:38:01 - https://www.google.com.br/ - true
+24/01/2022 16:38:01 - https://www.youtube.com/ - true
+24/01/2022 16:38:01 - https://www.facebook.com/ - true
+24/01/2022 16:38:01 - https://www.alura.com.br/ - true
+24/01/2022 16:38:07 - https://random-status-code.herokuapp.com/ - false
+24/01/2022 16:38:07 - https://www.google.com.br/ - true
+24/01/2022 16:38:07 - https://www.youtube.com/ - true
+24/01/2022 16:38:08 - https://www.facebook.com/ - true
+24/01/2022 16:38:08 - https://www.alura.com.br/ - true
+24/01/2022 16:38:17 - https://random-status-code.herokuapp.com/ - false
+24/01/2022 16:38:17 - https://www.google.com.br/ - true
+24/01/2022 16:38:17 - https://www.youtube.com/ - true
+24/01/2022 16:38:18 - https://www.facebook.com/ - true
+24/01/2022 16:38:32 - https://www.alura.com.br/ - true
+24/01/2022 16:38:38 - https://random-status-code.herokuapp.com/ - false
+24/01/2022 16:38:38 - https://www.google.com.br/ - true
+24/01/2022 16:38:38 - https://www.youtube.com/ - true
+24/01/2022 16:38:38 - https://www.facebook.com/ - true
+24/01/2022 16:38:38 - https://www.alura.com.br/ - true
+24/01/2022 16:38:44 - https://random-status-code.herokuapp.com/ - false
+24/01/2022 16:38:44 - https://www.google.com.br/ - true
+24/01/2022 16:38:44 - https://www.youtube.com/ - true
+24/01/2022 16:38:44 - https://www.facebook.com/ - true
+24/01/2022 16:38:44 - https://www.alura.com.br/ - true
+24/01/2022 16:38:50 - https://random-status-code.herokuapp.com/ - true
+24/01/2022 16:38:50 - https://www.google.com.br/ - true
+24/01/2022 16:38:50 - https://www.youtube.com/ - true
+24/01/2022 16:38:50 - https://www.facebook.com/ - true
+24/01/2022 16:38:51 - https://www.alura.com.br/ - true
+24/01/2022 16:38:56 - https://random-status-code.herokuapp.com/ - true
+24/01/2022 16:38:56 - https://www.google.com.br/ - true
+24/01/2022 16:38:56 - https://www.youtube.com/ - true
+24/01/2022 16:38:57 - https://www.facebook.com/ - true
+24/01/2022 16:38:57 - https://www.alura.com.br/ - true
+24/01/2022 16:41:18 - https://random-status-code.herokuapp.com/ - false
+24/01/2022 16:41:19 - https://www.google.com.br/ - true
+24/01/2022 16:41:19 - https://www.youtube.com/ - true
+24/01/2022 16:41:19 - https://www.facebook.com/ - true
+24/01/2022 16:41:19 - https://www.alura.com.br/ - true
+24/01/2022 16:41:25 - https://random-status-code.herokuapp.com/ - true
+24/01/2022 16:41:25 - https://www.google.com.br/ - true
+24/01/2022 16:41:25 - https://www.youtube.com/ - true
+24/01/2022 16:41:25 - https://www.facebook.com/ - true
+24/01/2022 16:41:25 - https://www.alura.com.br/ - true
+24/01/2022 16:41:31 - https://random-status-code.herokuapp.com/ - false
+24/01/2022 16:41:31 - https://www.google.com.br/ - true
+24/01/2022 16:41:31 - https://www.youtube.com/ - true
+24/01/2022 16:41:32 - https://www.facebook.com/ - true
+24/01/2022 16:41:32 - https://www.alura.com.br/ - true
+24/01/2022 16:41:37 - https://random-status-code.herokuapp.com/ - false
+24/01/2022 16:41:37 - https://www.google.com.br/ - true
+24/01/2022 16:41:38 - https://www.youtube.com/ - true
+24/01/2022 16:41:38 - https://www.facebook.com/ - true
+24/01/2022 16:41:38 - https://www.alura.com.br/ - true
+24/01/2022 16:41:44 - https://random-status-code.herokuapp.com/ - false
+24/01/2022 16:41:44 - https://www.google.com.br/ - true
+24/01/2022 16:41:44 - https://www.youtube.com/ - true
+24/01/2022 16:41:44 - https://www.facebook.com/ - true
+24/01/2022 16:41:44 - https://www.alura.com.br/ - true
