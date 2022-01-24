@@ -78,8 +78,10 @@ func recursiveCalculate(nth int) int {
 	if nth < 0 {
 		return -1
 	}
-
-	if nth == 0 || nth == 1 {
+	if nth == 0 {
+		return 0
+	}
+	if nth == 1 {
 		return 1
 	}
 
