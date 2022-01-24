@@ -93,6 +93,23 @@ fmt.Println("Invalid option")
 
 # for
 
+examples:
+
+```
+Example 1:
+  for i:=0; i<len(sites); i++ {
+	//code...
+	}
+```
+
+```
+Example 2:
+  // this way the range returns the i of the index and the item itself in the site variable
+  for i, site := range sites {
+		fmt.Println("2Site:", site)
+	}
+```
+
 # Packages
 
 ## fmt
@@ -103,7 +120,7 @@ fmt.Println("Invalid option")
 
 ### o uso do &
 
-O uso do "&" é para usar o PONTEIRO da variável assim podendo usar o terminal para atribuir um valor a uma variável
+The use of "&" is to use the POINTER of the variable so you can use the terminal to assign a value to a variable
 example:
 
 ```
@@ -118,8 +135,34 @@ fmt.Scan(&option)
 ## reflect
 
 - TypeOf
-  > reflect.TypeOf(version)
+  > reflect.TypeOf(VARIABLE_HERE)
 
 ## os
 
 - Exit example: os.Exit(0) - Success || os.Exit(-1) - Fail
+- Open ( for read file in (memory/pointer))
+- ReadFile ( for read file in []byte) to show string(FUNC_HERE)
+- OpenFile
+- WriteString
+
+## net/http
+
+- Get(URL_HERE)
+
+## strings
+
+- TrimSpace()
+
+## time
+
+- Sleep
+- Second
+
+## bufio
+
+- NewReader
+  - ReadString
+
+## ioutil
+
+- ReadFile
