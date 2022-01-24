@@ -56,7 +56,7 @@ aceita somente valores booleanos nos testes.
 
 example:
 
-````
+```
 
 if option == 1 {
 fmt.Println("Start the program")
@@ -118,9 +118,8 @@ fmt.Scan(&option)
 ## reflect
 
 - TypeOf
+  > reflect.TypeOf(version)
 
 ## os
 
 - Exit example: os.Exit(0) - Success || os.Exit(-1) - Fail
-```
-````
