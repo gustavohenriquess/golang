@@ -52,7 +52,7 @@ example of declaration:
 
 # IF
 
-aceita somente valores booleanos nos testes.
+accepts only boolean values in tests.
 
 example:
 
