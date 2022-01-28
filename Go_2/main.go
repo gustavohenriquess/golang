@@ -21,21 +21,45 @@ func main() {
 	http.HandleFunc("/", Index)
 	http.ListenAndServe(":8000", nil)
 
-	db := connectDB()
-	defer db.Close()
 }
+
 func Index(w http.ResponseWriter, r *http.Request) {
-	products := []Product{{Name: "Mobile", Description: "Android", Price: 1000, Quantity: 10},
-		{Name: "Laptop", Description: "Windows", Price: 2000, Quantity: 20},
-		{Name: "TV", Description: "LED", Price: 3000, Quantity: 30},
-		{"Fridge", "Refrigerator", 4000, 40},
-		{"Washing Machine", "Dryer", 5000, 50},
+
+	db := connectDB()
+
+	selectAllProducs, err := db.Query("SELECT * FROM products")
+
+	if err != nil {
+		panic(err.Error())
+	}
+
+	p := Product{}
+	products := []Product{}
+
+	for selectAllProducs.Next() {
+		var id, quantidade int
+		var nome, descricao string
+		var preco float64
+
+		err = selectAllProducs.Scan(&id, &nome, &descricao, &preco, &quantidade)
+
+		if err != nil {
+			panic(err.Error())
+		}
+
+		p.Name = nome
+		p.Description = descricao
+		p.Price = preco
+		p.Quantity = quantidade
+		products = append(products, p)
 	}
 	tmpl.ExecuteTemplate(w, "Index", products)
+
+	defer db.Close()
 }
 
 func connectDB() *sql.DB {
-	connection := "user=postgres dbname=alura_loja password=Postgres2018! host=teste-postgres sslmode=disable"
+	connection := "user=postgres dbname=alura_loja password=Postgres2018! host=localhost sslmode=disable"
 
 	db, err := sql.Open("postgres", connection)
 

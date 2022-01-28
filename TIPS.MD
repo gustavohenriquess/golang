@@ -8,6 +8,10 @@
 
 - go run FILE_PATH
 
+## MOD INIT
+
+- go mod init
+
 # VAR declaration
 
 - var VAR_NAME TYPE
