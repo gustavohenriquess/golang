@@ -45,3 +45,19 @@ func SearchAllProducts() []Product {
 
 	return products
 }
+
+func InsertProduct(name, description string, quantityConverted int, priceConverted float64) {
+
+	db := db.ConnectDB()
+
+	insertData, err := db.Prepare("INSERT INTO products(nome, descricao, preco, quantidade) VALUES($1, $2, $3, $4)")
+
+	if err != nil {
+		panic(err.Error())
+	}
+
+	insertData.Exec(name, description, priceConverted, quantityConverted)
+
+	defer db.Close()
+
+}
