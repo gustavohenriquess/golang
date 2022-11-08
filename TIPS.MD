@@ -10,7 +10,19 @@
 
 ## MOD INIT
 
-- go mod init
+- go mod init MODULE_NAME
+
+## MOD TIDY
+
+- go mod tidy
+  > install all project dependencies
+
+## CLEAN
+
+- go clean -cache
+  > used to clean cache project
+  > to clean only test cache -testcache
+  > https://til.cybertec-postgresql.com/post/2019-11-07-How-to-turn-off-test-caching-for-golang/
 
 # VAR declaration
 
