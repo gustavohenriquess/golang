@@ -126,6 +126,47 @@ Example 2:
 	}
 ```
 
+# Multithreading
+
+```
+func task(name string) {
+	for i :0; i<10; i++ {
+		fmt.Println("%d: Task %s is running\n", i, name)
+		time.Sleep(time.Second)
+	}
+}
+
+//T1
+func main() {
+	go task("A") //T2 //go routines || green threads
+	go task("B") //T3
+	task("C")
+}
+
+--------------------------------------------------------------
+//T1
+func main() {
+	canal := make(chan string)
+
+	//T2 go routine with channel
+	go func() {
+		canal <- "Olá Mundo!"
+	}
+
+	//T1
+	msg := <-canal
+	fmt.Println(msg)
+	//fmt.Println(<-canal) tbm funciona
+}
+```
+
+# Comandos
+
+```
+defer db.Close()
+//geto defer faz a função executar no momento que a função principal retorna
+```
+
 # Packages
 
 ## fmt
